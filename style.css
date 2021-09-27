@@ -134,7 +134,7 @@ body {
 .dark .projetos {
   background: linear-gradient(-225deg, #4B0082 0%, #00FA9A 100%);
   background-size: 300% 300%;
-  animation: colors 10s ease infinite;
+  animation: colors 7s ease infinite;
 }
 
 .footer {
