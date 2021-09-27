@@ -113,7 +113,7 @@ body {
 }
 
 .dark {
-  background: linear-gradient(236.85deg, #a020f0 26.27%, #ff8c00 96.03%);
+  background: linear-gradient(236.85deg, #4B0082 26.27%, #00FA9A 96.03%);
 }
 
 .dark .container {
@@ -132,7 +132,7 @@ body {
 }
 
 .dark .projetos {
-  background: linear-gradient(-225deg, #a020f0 0%, #ffa500 100%);
+  background: linear-gradient(-225deg, #4B0082 0%, #00FA9A 100%);
   background-size: 300% 300%;
   animation: colors 10s ease infinite;
 }
